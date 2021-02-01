@@ -1,0 +1,3 @@
+[line]
+my_channel_access_token = "your_channel_access_token"
+my_channel_secret = "your_channel_secret"

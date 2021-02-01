@@ -1,0 +1,8 @@
+# virtual-env
+/venv
+
+# python cache
+__pycache__
+
+# python config file
+settings.ini

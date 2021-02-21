@@ -14,4 +14,4 @@
 
 + 11:30 PM UTC(08:30 AM JST)にGoogleトレンドの急上昇ワードを通知する
 
-![](images/i.png)
+![](images/1.png)

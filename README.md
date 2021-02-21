@@ -15,3 +15,7 @@
 + 11:30 PM UTC(08:30 AM JST)にGoogleトレンドの急上昇ワードを通知する
 
 <img src='images/1.jpg' width='20%'>
+
++ QRコード
+
+<img src='images/2.png' width='50%'>

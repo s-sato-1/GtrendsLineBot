@@ -1,13 +1,9 @@
-import logging
-import sys
 import json
 import urllib.request
 
+import settings
 from line.line import APIClient
 
-import settings
-
-logging.basicConfig(level=logging.INFO, stream=sys.stdout)
 
 def get_gtrends() -> dict:
     """

@@ -18,4 +18,4 @@
 
 + QRコード
 
-<img src='images/2.png' width='50%'>
+<img src='images/2.png' width='20%'>
